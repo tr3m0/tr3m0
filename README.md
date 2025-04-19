@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @tr3m0
-- 👀 I’m interested in games and GUI programming
-- 🌱 I’m currently learning C++, Java and Typescript
+👋 Hi
